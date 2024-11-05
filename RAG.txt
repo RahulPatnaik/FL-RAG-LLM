@@ -1,0 +1,199 @@
+# Cybercrime Reporting Guide for LLM Users
+
+## Introduction
+This guide provides structured information for reporting cybercrimes encountered during LLM interactions. It includes reporting procedures, relevant authorities, and best practices for documentation.
+
+## Types of Cybercrime to Report
+
+### 1. Financial Fraud
+- Unauthorized financial transactions
+- Cryptocurrency scams
+- Investment fraud schemes
+- Payment processing fraud
+
+### 2. Data Breaches
+- Unauthorized access to personal information
+- Stolen credentials
+- Database compromises
+- Identity theft
+
+### 3. Social Engineering
+- Phishing attempts
+- Impersonation scams
+- Business email compromise (BEC)
+- Deepfake fraud
+
+### 4. Malicious Software
+- Ransomware
+- Malware distribution
+- Cryptojacking
+- Botnet activity
+
+## Primary Reporting Channels
+
+### United States
+1. **FBI's Internet Crime Complaint Center (IC3)**
+   - Website: www.ic3.gov
+   - Purpose: Primary portal for internet-related crime reports
+   - Information needed:
+     - Victim's contact information
+     - Financial transaction details
+     - Suspect's information (if available)
+     - Incident description
+
+2. **Federal Trade Commission (FTC)**
+   - Website: reportfraud.ftc.gov
+   - Focus: Consumer fraud, identity theft
+   - Provides: Identity theft recovery plans
+
+3. **Cybersecurity and Infrastructure Security Agency (CISA)**
+   - Website: www.cisa.gov/report
+   - Purpose: Critical infrastructure cybersecurity incidents
+   - 24/7 hotline available
+
+### International
+1. **Interpol**
+   - National Central Bureau contacts
+   - Cross-border cybercrime
+
+2. **Country-Specific Agencies**
+   - UK: Action Fraud
+   - Canada: Canadian Anti-Fraud Centre
+   - Australia: Australian Cyber Security Centre
+   - EU: European Cybercrime Centre (EC3)
+
+## Documentation Requirements
+
+### Essential Information to Collect
+1. **Temporal Data**
+   - Date and time of incident
+   - Timeline of events
+   - Duration of the attack
+
+2. **Technical Details**
+   - IP addresses involved
+   - URLs of malicious websites
+   - Screenshot of suspicious activities
+   - Chat logs or communication records
+
+3. **Financial Information**
+   - Transaction details
+   - Amount of loss
+   - Payment methods used
+   - Bank/crypto wallet addresses
+
+4. **Communication Evidence**
+   - Email headers
+   - Message timestamps
+   - Phone numbers used
+   - Social media profiles involved
+
+## Best Practices for LLM Users
+
+### Immediate Actions
+1. **Preserve Evidence**
+   - Take screenshots
+   - Save chat logs
+   - Document all interactions
+   - Record timestamps
+
+2. **Secure Accounts**
+   - Change passwords
+   - Enable 2FA where possible
+   - Review login activity
+   - Check for unauthorized access
+
+3. **Contact Financial Institutions**
+   - Report suspicious transactions
+   - Freeze accounts if necessary
+   - Document case numbers
+   - Request fraud investigations
+
+### Long-term Protection
+1. **Prevention Measures**
+   - Regular security audits
+   - Updated security software
+   - Employee training
+   - Incident response plans
+
+2. **Monitoring**
+   - Credit monitoring
+   - Account activity alerts
+   - Suspicious login notifications
+   - Regular security scans
+
+## Special Considerations for LLM Interactions
+
+### Red Flags in LLM Conversations
+1. **Unauthorized Access Attempts**
+   - Prompt injection attacks
+   - Data extraction attempts
+   - System compromise attempts
+
+2. **Malicious Prompts**
+   - Code execution requests
+   - Personal data solicitation
+   - System manipulation attempts
+
+### Response Protocol
+1. **Document the Interaction**
+   - Save conversation logs
+   - Note specific prompts used
+   - Record system responses
+
+2. **Report to Platform**
+   - Contact LLM provider
+   - Share incident details
+   - Follow platform guidelines
+
+## Follow-up Procedures
+
+### Case Tracking
+1. **Maintain Records**
+   - Case numbers
+   - Officer contacts
+   - Report dates
+   - Follow-up communications
+
+2. **Status Updates**
+   - Regular check-ins
+   - Documentation requests
+   - Investigation progress
+
+### Legal Considerations
+1. **Evidence Preservation**
+   - Digital forensics
+   - Chain of custody
+   - Expert consultation
+
+2. **Legal Support**
+   - Cybercrime attorneys
+   - Class action participation
+   - Civil litigation options
+
+## Additional Resources
+
+### Support Services
+1. **Victim Assistance**
+   - Counseling services
+   - Recovery programs
+   - Support groups
+   - Legal aid
+
+2. **Technical Support**
+   - Security consultants
+   - Forensic specialists
+   - System recovery experts
+
+### Educational Materials
+1. **Prevention Guides**
+   - Security best practices
+   - Risk assessment tools
+   - Training materials
+   - Awareness programs
+
+2. **Updates and Alerts**
+   - Threat intelligence
+   - Scam warnings
+   - Security bulletins
+   - Industry alerts
