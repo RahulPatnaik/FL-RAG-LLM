@@ -19,6 +19,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+Remember that you should mostly try to delete the pycache or chromadb in your IDE after you are done running this as it may hamper your streamlit app response speed. Will implement better techniques to deal with this issue later on.
+
 ## Selecting model in the rag.py
 ```
 def __init__(self, llm_model: str = "mistral"):
